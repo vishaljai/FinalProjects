@@ -1,0 +1,32 @@
+.revPane{
+	margin-top:10px;
+	border: 1px solid black;
+	border-radius:5px;
+	width: 100%;
+}
+
+.revby{
+	display: block;
+	background: gray;
+	font-weight: bold;
+	color: white;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.revCont{
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: lightyellow;
+}
+
+.revMain{
+	margin:auto;
+	margin-top:20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 78%;
+	padding: 10px;	
+}

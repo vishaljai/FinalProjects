@@ -1,0 +1,125 @@
+.maindiv{
+	width: 100%;
+	background: navy;
+}
+.logodiv{
+	text-align: center;
+	display: inline-block;
+	padding: 10px;
+}
+.logo{
+	font-family: "Segoe Script";
+	font-size : 30px;
+	font-weight: bold;
+	color:white;
+}
+
+.sublogo{
+	font-family: "Segoe Script";
+	font-size : 12px;
+	font-weight: bold;
+	color: white;
+}
+
+.base-size{
+	font-size : 20px;
+}
+
+.search{
+	margin-left:10px;
+	border-radius:5px;
+	min-width: 80%;
+}
+
+.topright{
+	display: inline-block;
+	width: 100%;
+}
+
+.top-option{
+	font-family: "Segoe UI";
+	font-size : 15px;
+	font-weight: bold;
+	text-decoration:none;
+	float:right;
+	margin-right: 15px;
+}
+
+.btn{
+	background: navy;
+	display: inline-block;
+	border-radius:5px;
+	border: 1px bold;
+	text-decoration: none;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color :white;
+	margin-right: 10px;
+}
+
+.btn:hover{
+	background: blue;
+	display: inline-block;
+	border-radius:5px;
+	border: 1px bold;
+	text-decoration: none;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color :white;
+	margin-right: 10px;
+}
+
+.center{
+	text-align: center;
+	
+}
+.nobookmsg{
+	margin-top:15px;
+	background: navy;
+	border-radius:5px;
+	border: 1px bold;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color :white;
+	font-family: "Segoe UI";
+	font-size : 20px;
+	font-weight: bold;
+	text-decoration:none;
+	text-align: center;
+	width: 80%;
+}
+table{
+	margin-top : 20px;
+	width: 80%;
+	
+}
+table td{
+	padding-top:5px;
+	padding-bottom: 5px;
+}
+.reviewHome{
+	margin-left: 10%;
+}
+.review{
+	margin-top : 10px;
+	padding:10px;
+	width: 80%;
+	background: lightyellow;
+	border: 1px solid black;
+}
+.name{
+	
+	margin-left:30px;
+	font-weight: bold;
+}
+.reviewValue{
+	margin-left:30px;
+	width: 80%;
+	
+}

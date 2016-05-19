@@ -1,0 +1,141 @@
+.center{
+	text-align: center;
+}
+
+.logo{
+	font-family: "Segoe Script";
+	font-size : 100px;
+	font-weight: bold;
+	color:navy;
+}
+
+.sublogo{
+	font-family: "Segoe Script";
+	font-size : 20px;
+	font-weight: bold;
+}
+
+.base-size{
+	font-size : 20px;
+}
+
+.search{
+	
+	border-radius:5px;
+	width: 60%;
+}
+
+.topright{
+	width: 100%;
+	text-align:right;
+	padding:10px;
+}
+
+.top-option-disabled{
+    padding-bottom:5px;
+	padding-top:5px;
+	padding-left:15px;
+	padding-right:15px;
+	border-radius:5px;
+	font-family: "Segoe UI";
+	font-size : 15px;
+	font-weight: bold;
+	text-decoration:none;
+	margin-right: 15px;
+	color: black;
+}
+
+.top-option{
+    padding-bottom:5px;
+	padding-top:5px;
+	padding-left:15px;
+	padding-right:15px;
+	border-radius:5px;
+	font-family: "Segoe UI";
+	font-size : 15px;
+	font-weight: bold;
+	text-decoration:none;
+	margin-right: 15px;
+	background: navy;
+	color: white;
+}
+
+.top-option:hover{
+	padding-bottom:5px;
+	padding-top:5px;
+	padding-left:16px;
+	padding-right:16px;
+	font-family: "Segoe UI";
+	font-size : 15px;
+	font-weight: bold;
+	text-decoration:none;
+	margin-right: 15px;
+	background: white;
+	color: navy;
+	border:1px solid navy;
+}
+
+.login-form{
+	font-family: "Segoe UI";
+	font-size : 15px;
+	font-weight: bold;
+}
+
+.notif{
+	margin-top:15px;
+	margin-right:20px;
+	padding:5px;
+	border-radius:5px;
+	float: right;
+	font-weight: bold;
+	color:navy;
+	border: 1px solid navy;
+}
+.notification{
+	display:block;
+	font-weight: bold;
+	color:white;
+	border: 1px solid navy;
+	text-align: center;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-radius:5px; 
+}
+.danger{
+	background: red;
+}
+.success{
+	background: green;
+}
+.left{
+	float:left;
+}
+
+
+.subbtn{
+	background: navy;
+	display: inline-block;
+	border-radius:5px;
+	border: 1px bold;
+	text-decoration: none;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color :white;
+	margin-right: 10px;
+}
+
+.subbtn:hover{
+	background: blue;
+	display: inline-block;
+	border-radius:5px;
+	border: 1px bold;
+	text-decoration: none;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color :white;
+	margin-right: 15px;
+}
